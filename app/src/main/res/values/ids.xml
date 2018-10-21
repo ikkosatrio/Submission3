@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dateMatchTV" type="id" />
+    <item name="itemCardView" type="id" />
+    <item name="nameHomeTV" type="id" />
+    <item name="nameAwayTV" type="id" />
+    <item name="scoreTV" type="id" />
+    <item name="listMatchRV" type="id" />
+
+    <item name="team_badge" type="id" />
+    <item name="score" type="id" />
+    <item name="score_match_home" type="id" />
+    <item name="vs" type="id" />
+    <item name="score_match_away" type="id" />
+    <item name="home_formation" type="id" />
+    <item name="away_formation" type="id" />
+    <item name="home_goals" type="id" />
+    <item name="away_goals" type="id" />
+    <item name="home_shots" type="id" />
+    <item name="away_shots" type="id" />
+    <item name="home_goalkeeper" type="id" />
+    <item name="away_goalkeeper" type="id" />
+    <item name="away_defense" type="id" />
+    <item name="home_defense" type="id" />
+    <item name="home_midfield" type="id" />
+    <item name="away_midfield" type="id" />
+    <item name="home_forward" type="id" />
+    <item name="away_forward" type="id" />
+    <item name="home_substitutes" type="id" />
+    <item name="away_substitutes" type="id" />
+    <item name="img_home" type="id" />
+    <item name="img_away" type="id" />
+
+    <item name="spinner" type="id" />
+</resources>
